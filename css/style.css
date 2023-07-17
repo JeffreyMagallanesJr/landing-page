@@ -41,6 +41,7 @@ header > ul {
     flex-direction: column;
     flex: 1 0 0;
     height: 300px;
+    align-items: flex-start;
 }
 
 .main_text {
@@ -52,6 +53,15 @@ header > ul {
 .secondary_text {
     font-size: 24px;
     color: #F9FAF8;
+}
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: 0;
+    padding: 10px 30px;
+    border-radius: 12px;
+    font-weight: bold;
 }
 
 .first > img {
