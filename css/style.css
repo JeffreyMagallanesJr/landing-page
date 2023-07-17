@@ -26,3 +26,13 @@ header > ul {
     list-style-type: none;
     gap: 16px;
 }
+
+.first {
+    display: flex;
+    padding: 0 150px;
+}
+
+.first > container {
+    display: flex;
+    flex-direction: column;
+}
