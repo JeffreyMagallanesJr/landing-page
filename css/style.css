@@ -23,4 +23,5 @@ header > p {
 header > ul {
     display: flex;
     list-style-type: none;
+    gap: 16px;
 }
