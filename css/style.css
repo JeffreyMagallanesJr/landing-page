@@ -76,4 +76,13 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 0 150px;
+}
+
+.second > .container {
+    display: flex;   
+}
+
+.second > .container > .card {
+    text-align: center;
 }
