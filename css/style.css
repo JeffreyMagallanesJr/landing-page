@@ -9,7 +9,16 @@ footer {
     color: #F9FAF8;
 }
 
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
 header > p {
     font-size: 24px;
     font-weight: bold;
+}
+
+header > ul {
+    display: flex;
 }
