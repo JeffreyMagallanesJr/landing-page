@@ -14,6 +14,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 0 150px;
+    padding-top: 10px;
 }
 
 header > p {
@@ -35,9 +36,11 @@ header > ul {
     padding-bottom: 50px;
 }
 
-.first > container {
+.first > .container {
     display: flex;
     flex-direction: column;
+    flex: 1 0 0;
+    height: 300px;
 }
 
 .main_text {
@@ -53,4 +56,5 @@ header > ul {
 
 .first > img {
     min-width: 50%;
+    height: 300px;
 }
