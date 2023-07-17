@@ -36,3 +36,7 @@ header > ul {
     display: flex;
     flex-direction: column;
 }
+
+.first > img {
+    min-width: 50%;
+}
