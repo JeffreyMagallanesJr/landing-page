@@ -81,8 +81,16 @@ button {
 
 .second > .container {
     display: flex;   
+    justify-content: space-evenly;
+    gap: 30px;
 }
 
 .second > .container > .card {
     text-align: center;
+}
+
+.second > .container > .card > img {
+    border: 2px solid #3882F6;
+    border-radius: 12px;
+    padding: 10%;
 }
