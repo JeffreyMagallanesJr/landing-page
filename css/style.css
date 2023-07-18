@@ -132,7 +132,7 @@ button {
     border-radius: 12px;
 }
 
-.fourth > p {
+.fourth > .container > p {
     color: #F9FAF8;
 }
 
