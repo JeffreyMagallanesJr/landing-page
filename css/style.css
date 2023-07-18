@@ -132,6 +132,7 @@ button {
     border-radius: 12px;
     display: flex;
     justify-content: space-between;
+    padding: 50px 150px;
 }
 
 .fourth > .container > p {
@@ -150,4 +151,5 @@ button {
     padding: 5px 40px;
     border-radius: 12px;
     font-weight: bold;
+    align-self: center;
 }
