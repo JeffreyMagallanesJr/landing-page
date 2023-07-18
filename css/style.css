@@ -136,7 +136,7 @@ button {
     color: #F9FAF8;
 }
 
-.fourth > .first_text {
+.fourth > .container > .first_text {
     font-weight: bolder;
     font-size: 24px;
 }
