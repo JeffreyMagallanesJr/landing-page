@@ -153,3 +153,9 @@ button {
     font-weight: bold;
     align-self: center;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+}
