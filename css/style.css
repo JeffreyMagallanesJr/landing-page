@@ -106,5 +106,8 @@ button {
     border-radius: 12px;
     height: 191.2px;
     width: 191.2px;
+}
 
+.third {
+    background-color: #E5E7EB;
 }
