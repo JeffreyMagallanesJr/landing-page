@@ -112,7 +112,7 @@ button {
     background-color: #E5E7EB;
     display: flex;
     flex-direction: column;
-    padding: 0 150px;
+    padding: 100px 200px;
 }
 
 .third > .quote {
@@ -123,4 +123,5 @@ button {
 
 .third > .quotesayer {
     align-self: flex-end;
+    font-weight: bolder;
 }
