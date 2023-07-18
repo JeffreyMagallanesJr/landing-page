@@ -79,6 +79,13 @@ button {
     padding: 0 150px;
 }
 
+.second > h1 {
+    padding: 50px 0;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
 .second > .container {
     display: flex;   
     justify-content: space-evenly;
