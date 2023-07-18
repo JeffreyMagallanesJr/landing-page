@@ -132,6 +132,15 @@ button {
     border-radius: 12px;
 }
 
+.fourth > p {
+    color: #F9FAF8;
+}
+
+.fourth > .first_text {
+    font-weight: bolder;
+    font-size: 24px;
+}
+
 .fourth > button {
     background-color: #3882F6;
     color: #F9FAF8;
